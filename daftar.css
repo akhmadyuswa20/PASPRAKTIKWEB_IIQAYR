@@ -1,0 +1,11 @@
+.card .card-body {
+  background-color: rgb(238, 238, 238);
+  height: 95vh;
+}
+
+.mb-3 {
+  padding: 0 40px;
+}
+.card .card-body .button {
+  padding-top: 20px;
+}
